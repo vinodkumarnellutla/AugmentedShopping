@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AugmentedShopping</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="st_nameid">Name</string>
+    <string name="st_pwdid">Password</string>
+    <string name="st_btnid">login</string>
+    <string name="st_notregid">Register now</string>
+    <string name="st_fgtpwdid">Forget Password</string>
+    <string name="userhead">USERLOGIN</string>
+    <string name="reg_loginid">Email id</string>
+    <string name="login_gen">Gender</string>
+    <string name="login_nameid">Name</string>
+    <string name="reg_gen1">Male</string>
+    <string name="reg_gen2">Female</string>
+    <string name="reg_addid">Address</string>
+    <string name="reg_pwdid">Password</string>
+    <string name="reg_secid">Security Question</string>
+    <string name="reg_secansid">Answer</string>
+    <string name="reg_submitbtnid">Submit</string>
+    <string name="forget_headid">ANSWER THE QUESTION</string>
+    <string name="forget_name">Question</string>
+    <string name="forget_ans">Answer</string>
+    <string name="forget_btn">Submit</string>
+    <string name="userregisterid">USER REGISTRATION</string>
+    <string name="userregister_email">Email</string>
+    <string name="selectheading">SELECT YOUR ACESS TYPE</string>
+    <string name="selectshopbtn">SELECTIVE SHOPPING</string>
+    <string name="qrbtn">QR SCAN MODE</string>
+    <string name="categoryhead">Category</string>
+    <string name="brandhead">Brand   </string>
+    <string name="scategoryhead">sub_Category</string>
+    <string name="producthead">Product</string>
+    <string name="gobtn">GO!</string>
+    <string name="productlist">PRODUCTLIST</string>
+    <string name="viewonline">VIEW ON WEB</string>
+
+</resources>

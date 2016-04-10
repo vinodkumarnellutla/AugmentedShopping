@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.augmentedshopping"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="18" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/qr_droid_hdpi"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.augmentedshopping.RegistratonActivity">
+            
+        </activity>
+        <activity
+            android:name="com.example.augmentedshopping.ScanActivity">
+            
+        </activity>
+        <activity
+            android:name="com.example.augmentedshopping.Camera_ObjectDistanceActivity">
+            
+        </activity>
+        <activity
+            android:name="com.example.augmentedshopping.AndroidCamera">
+            
+        </activity>
+        <activity
+            android:name="com.example.augmentedshopping.CustomizedAdapter">
+            
+        </activity>
+        <activity
+            android:name="com.example.augmentedshopping.SelectShopAcivity">
+            
+        </activity>
+        <activity
+            android:name="com.example.augmentedshopping.DisplayIntent">
+            
+        </activity>
+        <activity
+            android:name="com.example.augmentedshopping.SelectionActivity">
+            
+        </activity>
+         <activity
+            android:name="com.example.augmentedshopping.AndroidCamera1">
+            
+        </activity>
+        <activity android:name="com.example.augmentedshopping.ForgetPassActivity" ></activity>
+        
+        <activity
+            android:name="com.example.augmentedshopping.LoginActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
